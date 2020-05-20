@@ -1,0 +1,15 @@
+.contents {
+  display: flex;
+  justify-content: space-around;
+}
+.rows {
+  display: flex;
+}
+.title-text {
+  padding-bottom: 15px;
+  text-decoration: underline;
+  text-align: center;
+}
+.button {
+  margin: 30px;
+}
