@@ -1,0 +1,8 @@
+.details {
+  margin-bottom: 20px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+}
